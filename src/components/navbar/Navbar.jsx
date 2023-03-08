@@ -52,12 +52,7 @@ const Navbar = () => {
                 className="primary-btn"
                 onClick={handleLogin}
               >
-                Sign In
-              </button>
-            </Link>
-            <Link to="/register">
-              <button type="button" className="secondary-btn">
-                Sign Up
+                Connect Wallet
               </button>
             </Link>
           </>
